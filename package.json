@@ -1,0 +1,19 @@
+{
+  "name": "javascriptweek3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.2",
+    "tappedout": "^1.1.8"
+  },
+  "description": ""
+
+}
+
